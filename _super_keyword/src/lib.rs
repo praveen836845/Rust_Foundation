@@ -1,10 +1,10 @@
 // src/lib.rs
 pub mod kitchen; // This declares and exposes the kitchen module
-pub mod dinning; // Uncomment this line
+// pub mod dinning; // Uncomment this line
 
-// pub mod dinning {
-//     pub mod dinning_module;
-// }
+pub mod dinning {
+    pub mod dinning_module;
+}
 
 
 // Function in the root module
