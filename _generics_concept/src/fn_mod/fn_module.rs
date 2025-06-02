@@ -1,6 +1,4 @@
 use serde::Serialize;
-
-
 // Define a concrete struct (non-generic in this case)
 // This represents user data with specific field types
 // Demonstrates basic struct usage before we generalize it
