@@ -1,0 +1,1 @@
+/Users/roysingh/Desktop/Development_Folder/Rust_Learning_concept/project1/target/debug/project1: /Users/roysingh/Desktop/Development_Folder/Rust_Learning_concept/project1/src/main.rs /Users/roysingh/Desktop/Development_Folder/Rust_Learning_concept/project1/src/struct_module/datastorage.rs
