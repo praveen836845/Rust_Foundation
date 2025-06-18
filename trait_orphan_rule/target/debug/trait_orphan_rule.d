@@ -1,0 +1,1 @@
+/Users/roysingh/Desktop/Development_Folder/Rust_Learning_concept/trait_orphan_rule/target/debug/trait_orphan_rule: /Users/roysingh/Desktop/Development_Folder/Rust_Learning_concept/trait_orphan_rule/src/main.rs

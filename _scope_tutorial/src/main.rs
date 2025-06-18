@@ -8,8 +8,8 @@ mod front_of_house {
 }
 
 mod customer {
-    // Two ways to Handle this module call inside the module one 
-    // use key using the abosulate path of the function and make in the scope...
+    // Two ways to Handle this module call inside the another module one 
+    // `use` keyword with  the abosulate path of the function and make it in the scope...
   use  crate::front_of_house::hosting;
  
     pub fn eat_at_restaurant() {

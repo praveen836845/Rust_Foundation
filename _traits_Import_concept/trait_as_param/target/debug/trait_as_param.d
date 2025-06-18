@@ -1,0 +1,1 @@
+/Users/roysingh/Desktop/Development_Folder/Rust_Learning_concept/_traits_Import_concept/trait_as_param/target/debug/trait_as_param: /Users/roysingh/Desktop/Development_Folder/Rust_Learning_concept/_traits_Import_concept/trait_as_param/src/main.rs
